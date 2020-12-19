@@ -1,0 +1,11 @@
+{
+  "name": "ts-agario-clone",
+  "version": "1.0.0",
+  "description": "Agar.io game clone built with typescript, p5js and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Negrusa",
+  "license": "ISC"
+}
